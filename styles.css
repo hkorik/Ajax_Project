@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.float_left{
+	float: left;
+}
+.float_right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+.active{
+	background-color: blue;
+}
+#wrapper{
+	margin: 10px auto;
+}
+#test_form div{
+	margin: 10px 20px 15px 20px;
+}
+#test_form label{
+	margin: 0px 15px 0px 0px;
+}
+
